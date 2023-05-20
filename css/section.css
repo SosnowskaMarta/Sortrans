@@ -1,0 +1,24 @@
+.section__frame {
+    border: solid #199f19 5px;
+    border-radius: 50%;
+    padding: 10%;
+    padding-left: 20%;
+    outline: 5px solid yellowgreen;
+    box-shadow: 20px 10px 5px rgb(192, 190, 190);
+}
+
+.section {
+
+    font-family: "Lato", sans-serif;
+    line-height: 2;
+}
+
+.section__header {
+    color: #199f19;
+    margin-top: 60px;
+}
+
+.section__paragraph {
+    font-family: "Lato", sans-serif;
+    line-height: 2;
+}

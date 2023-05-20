@@ -1,0 +1,14 @@
+.navigation {}
+
+.navigation__list {
+    list-style: none;
+    padding: 20px;
+}
+
+.navigation__link {
+    margin: 30px 0;
+    color: #199f19;
+    text-decoration: none;
+    padding: 0 20px;
+    font-family: "Lato", sans-serif;
+}

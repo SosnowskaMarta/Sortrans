@@ -1,0 +1,61 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 1000px;
+    margin: auto
+}
+
+.topbox {
+    height: 20%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+
+.tekstpl {
+    font-family: "Lato", sans-serif;
+    line-height: 2;
+}
+
+.teksten {
+    font-family: "Lato", sans-serif;
+    line-height: 2;
+
+}
+
+.ukryty {
+    display: none;
+}
+
+.caption {
+    display: none;
+}
+
+.table {
+    font-family: "Lato", sans-serif;
+    color: black font-size: 20px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.tableCell {
+    border: 3px solid #199f19;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.tableHeader {
+    background-color: #199f19;
+    color: white;
+    font-weight: normal;
+}
